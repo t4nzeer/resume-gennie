@@ -1,0 +1,6 @@
+{
+  "name": "Resume Gennie",
+  "description": "AI-powered recruitment platform that parses resumes, auto-ranks candidates using advanced matching and generates interview questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
